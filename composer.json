@@ -1,0 +1,14 @@
+{
+    "name": "j4wx/buto_embed_field",
+    "description": "Adds Buto support to the video_embed_field module for Drupal 8",
+    "type": "drupal-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jamie Wood",
+            "email": "jamie.wood@reckless.agency"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

@@ -1,0 +1,9 @@
+name: 'Buto Video Embed'
+description: 'Implements methods required to use the video_embed_field module to embed buto videos.'
+package: Video Embed Field
+
+type: module
+core: 8.x
+
+dependencies:
+  - video_embed_field
